@@ -1,0 +1,37 @@
+row	col	stype	detail	dilution
+A	1	standard	2	1
+A	2	standard	2	1
+A	3	standard	1	1
+A	4	standard	1	1
+A	5	standard	.5	1
+A	6	standard	.5	1
+A	7	standard	.25	1
+A	8	standard	.25	1
+A	9	standard	.125	1
+A	10	standard	.125	1
+A	11	standard	0	1
+A	12	standard	0	1
+B	1	sample	v1209.1	1
+B	2	sample	v1205.6	1
+B	3	sample	v1187.3	1
+B	4	sample	165.2	1
+B	5	sample	v1202.1	1
+B	6	sample	v1208.1	1
+B	7	sample	v1224.7	1
+B	8	sample	v1238.5	1
+B	9	sample	v1234.1	1
+B	10			
+B	11			
+B	12			
+C	1	sample	v1209.1	1
+C	2	sample	v1205.6	1
+C	3	sample	v1187.3	1
+C	4	sample	165.2	1
+C	5	sample	v1202.1	1
+C	6	sample	v1208.1	1
+C	7	sample	v1224.7	1
+C	8	sample	v1238.5	1
+C	9	sample	v1234.1	1
+C	10			
+C	11			
+C	12			

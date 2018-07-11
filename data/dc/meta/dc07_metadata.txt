@@ -1,0 +1,73 @@
+row	col	stype	detail	dilution
+A	1			
+A	2			
+A	3			
+A	4			
+A	5			
+A	6			
+A	7			
+A	8			
+A	9			
+A	10			
+A	11			
+A	12			
+B	1	sample	07-242	1
+B	2	sample	10-094	1
+B	3	sample	11-043	1
+B	4	sample	11-109	1
+B	5	sample	11-158	1
+B	6	sample	11-333	1
+B	7	sample	12-036	1
+B	8	sample	12-058	1
+B	9	sample	12-177	1
+B	10	sample	13-202	1
+B	11	sample	13-230	1
+B	12	sample	13-294	1
+C	1	sample	14-012	1
+C	2	sample	14-013	1
+C	3	sample	14-017	1
+C	4	sample	14-100	1
+C	5	sample	14-150	1
+C	6	sample	14-246	1
+C	7	sample	14-286	1
+C	8	sample	14-300	1
+C	9	sample	15-184	1
+C	10	sample	15-302	1
+C	11	sample	15-307	1
+C	12	sample	15-328	1
+D	1	sample	15-385	1
+D	2	sample	15-406	1
+D	3	sample	15-422	1
+D	4	sample	15-446	1
+D	5	sample	16-001	1
+D	6	sample	16-097	1
+D	7	sample	16-226	1
+D	8	sample	16-314	1
+D	9	sample	16-324	1
+D	10	sample	16-403	1
+D	11			
+D	12			
+E	1	sample	v1187.3	1
+E	2	sample	v1187.3	1
+E	3			
+E	4			
+E	5			
+E	6			
+E	7			
+E	8			
+E	9			
+E	10			
+E	11			
+E	12			
+F	1	standard	1.6	1
+F	2	standard	0.8	1
+F	3	standard	0.4	1
+F	4	standard	0.2	1
+F	5	standard	0.1	1
+F	6	standard	0.0	1
+F	7	standard	1.6	1
+F	8	standard	0.8	1
+F	9	standard	0.4	1
+F	10	standard	0.2	1
+F	11	standard	0.1	1
+F	12	standard	0.0	1

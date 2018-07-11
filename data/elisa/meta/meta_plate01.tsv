@@ -1,0 +1,49 @@
+row	col	stype	detail	dilution
+A	1	control	poscon hi	
+A	2	control	negcon	
+A	3	sample	165.2	100
+A	4	sample	165.2	100
+A	5	sample	165.2	100
+A	6	sample	165.2	100
+B	1	standard	1	
+B	2	standard	2	
+B	3	sample	v1187.3	100
+B	4	sample	v1187.3	100
+B	5	sample	v1187.3	100
+B	6	sample	v1187.3	100
+C	1	standard	1	
+C	2	standard	2	
+C	3	standard	4	
+C	4	standard	5	
+C	5	standard	10	
+C	6	standard	20	
+D	1	control	poscon hi	
+D	2	control	negcon	
+D	3	control	poscon lo	
+D	4	spike-in	20	
+D	5	spike-in	10	
+D	6	spike-in	5	
+E	1	spike-in	5	
+E	2	spike-in	5	
+E	3	spike-in	4	
+E	4	spike-in	4	
+E	5	spike-in	4	
+E	6	spike-in	3.2	
+F	1	spike-in	3.2	
+F	2	spike-in	3.2	
+F	3	spike-in	2.56	
+F	4	spike-in	2.56	
+F	5	spike-in	2.56	
+F	6	spike-in	2.56	
+G	1	standard	4	
+G	2	standard	5	
+G	3	sample	v1202.1	100
+G	4	sample	v1202.1	100
+G	5	sample	v1202.1	100
+G	6	sample	v1202.1	100
+H	1	standard	10	
+H	2	standard	20	
+H	3	sample	v1205.6	100
+H	4	sample	v1205.6	100
+H	5	sample	v1205.6	100
+H	6	sample	v1205.6	100

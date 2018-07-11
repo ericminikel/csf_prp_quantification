@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution
+A	1	standard	200	1
+A	2	standard	66.6	1
+A	3	standard	22.2	1
+A	4	standard	7.4	1
+A	5	standard	2.5	1
+A	6	standard	0.82	1
+A	7	standard	0.27	1
+A	8	standard	0	1
+A	9	sample	14-300	10
+A	10	sample		
+A	11	sample	14-300	100
+A	12	sample	14-300	100
+B	1	sample	15-184	10
+B	2	sample	15-184	10
+B	3	sample	15-184	100
+B	4	sample	15-184	100
+B	5	sample	15-302	10
+B	6	sample		
+B	7	sample	15-302	100
+B	8	sample	15-302	100
+B	9	sample	15-307	10
+B	10	sample		
+B	11	sample	15-307	100
+B	12	sample	15-307	100
+C	1	sample	15-328	10
+C	2	sample	15-328	10
+C	3	sample	15-328	100
+C	4	sample	15-328	100
+C	5	sample	15-385	10
+C	6	sample		
+C	7	sample	15-385	100
+C	8	sample	15-385	100
+C	9	sample	15-406	10
+C	10	sample	15-406	10
+C	11	sample	15-406	100
+C	12	sample	15-406	100
+D	1	sample	15-422	10
+D	2	sample	15-422	10
+D	3	sample	15-422	100
+D	4	sample	15-422	100
+D	5	sample	15-446	10
+D	6	sample	15-446	10
+D	7	sample	15-446	100
+D	8	sample	15-446	100
+D	9	sample	16-001	10
+D	10	sample		
+D	11	sample	16-001	100
+D	12	sample	16-001	100
+E	1	sample	16-097	10
+E	2	sample	16-097	10
+E	3	sample	16-097	100
+E	4	sample	16-097	100
+E	5	sample	16-226	10
+E	6	sample	16-226	10
+E	7	sample	16-226	100
+E	8	sample	16-226	100
+E	9	sample	16-314	10
+E	10	sample	16-314	10
+E	11	sample	16-314	100
+E	12	sample	16-314	100
+F	1	sample	16-324	10
+F	2	sample	16-324	10
+F	3	sample	16-324	100
+F	4	sample	16-324	100
+F	5	sample	16-403	10
+F	6	sample	16-403	10
+F	7	sample	16-403	100
+F	8	sample	16-403	100
+F	9	sample	WB	1000000
+F	10	sample	WB	1000000
+F	11	sample	WB	10000000
+F	12	sample		
+G	1	sample	WB	100000000
+G	2	sample	WB	100000000
+G	3	sample	v1187.3	100
+G	4	sample	v1187.3	100
+G	5	standard	200	1
+G	6	standard	66.6	1
+G	7	standard	22.2	1
+G	8	standard	7.4	1
+G	9	standard	2.5	1
+G	10	standard	0.82	1
+G	11	standard	0.27	1
+G	12	standard	0	1
+H	1	sample	v1187.3	1000
+H	2			
+H	3	sample	v1187.3	10000
+H	4	sample	v1187.3	10000
+H	5	sample	v1187.3	100000
+H	6	sample	v1187.3	100000
+H	7			
+H	8			
+H	9			
+H	10			
+H	11			
+H	12			

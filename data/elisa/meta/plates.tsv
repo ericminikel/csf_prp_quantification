@@ -1,0 +1,43 @@
+plateno	metafile	datafile	kit_lot	operator	purpose
+1	meta_plate01.tsv	elisa_2016-07-27_spectramax_164512.txt	0616-03	EVM	pilot use of kit with four MIND samples
+2	meta_plate02.tsv	csf-elisa-08-08-16-155640-after-settling.txt	0616-03	EVM	remaining samples from MIND tissue request 1
+3	meta_plate03.tsv	csf-elisa-08-30-16-164815.txt	0816-02	EVM	first attempt at metformin test-retest; decided to re-do before unblinding because of apparent technical artifact
+4	meta_plate04.tsv	csf-elisa-09-01-16-154829.txt	0816-02	EVM	metformin test-retest
+5	meta_plate05.tsv	SV-10-05-16-173546-CSF-exosome-ELISA.txt	0916-06	SV	failed attempt at exosome purification
+6	meta_plate06.tsv	SV-2016-10-10-ELISA00006-170840.txt	0916-06	SV	Zetterberg cohort
+6_alt	meta_plate06.tsv	csf_elisa_6_merged.csv	0916-06	SV	re-scan of plate 6 on Fluostar Optima to compare platereaders
+7	meta_plate07.tsv	ELISA00007.CSV	0916-06	SV	MIND tissue request 2 - lumbar drain test-retest
+8	meta_plate08.tsv	blood-elisa00008-01-13-17-154137.txt	1116-01	SV	blood fractions
+9	meta_plate09.tsv	ELISA00009-monkey-csf-and-redos-01-16-17-155554.txt	1116-01	SV	monkey CSF; neat re-run of lowest PrP sample
+10	meta_plate10.tsv	prp-elisa-10.csv	1116-01	EVM	Parchi cohort (1/2)
+11	meta_plate11.tsv	prp-elisa-11-2017-02-01.csv	1116-01	EVM	Parchi cohort (2/2); dilution linearity without CHAPS
+12	meta_plate12.tsv	SV-2017-02-15-ELISA00012-kuvan-plate1-151615.txt	0117-06	SV	Swoboda cohort (1/2)
+13	meta_plate13.tsv	EVM-2017-02-15-ELISA00013-kuvan-plate2-153351.txt	0117-06	EVM	Swoboda cohort (2/2) and blood spike without CHAPS
+14	meta_plate14.tsv	SV-ELISA00014-aliquotsize-edta-wb-2017-02-21-162313.txt	0117-06	SV	aliquot size; EDTA control
+15	meta_plate15.tsv	SV-ELISA00015-QC-2017-02-24-154759.txt	0117-06	SV	perturbations without CHAPS
+16	meta_plate16.tsv	SV-ELISA00016-wb-tween-2017-02-28-151446.txt	0117-06	SV	blood spike without CHAPS; Tween rescue of transfer loss
+17	meta_plate17.tsv	SV-2017-03-30-ELISA00017-chaps-161331.txt	0217-03	SV	Tween vs. CHAPS to rescue transfer loss
+18	meta_plate18.tsv	SV-ELISA00018-chaps-dilution-linearity-2017-04-03-143125.txt	0217-03	SV	dilution linearity with CHAPS
+19	meta_plate19.tsv	SV-ELISA00019-QC-with-CHAPS-2017-04-05-154424.txt	0217-03	SV	perturbations with CHAPS
+20	meta_plate20.tsv	SV-ELISA00020-blood-spike-in-with-CHAPS-2017-04-11-141820.txt	0217-03	SV	blood and EDTA spike-in with CHAPS
+21	meta_plate21.tsv	EVM-ELISA00021-2017-04-13-155336.txt	0217-03	EVM	Case brains, blood fractions, post-hoc CHAPS addition
+22	meta_plate22.tsv	SV-ELISA00022-loading-order-plate-location-2017-04-18-151607.txt	0217-03	SV	loading order, single channel
+23	meta_plate23.tsv	SV-ELISA00023-loading-order-multichannel-2017-04-24-145837.txt	0217-03	SV	loading order, multichannel
+24	meta_plate24.tsv	EVM-ELISA00024-2017-04-27.csv	0217-03	EVM	Zerr cohort (1/2)
+25	meta_plate25.tsv	EVM-ELISA00025-2017-05-17.csv	0217-03	EVM	Zerr cohort (2/2)
+26	meta_plate26.tsv	SV-ELISA00026-AAAspikein-tranches-rat-2017-05-20-170026.txt	0217-03	SV	recombinant spike-in, rat CSF
+27	meta_plate27.tsv	SV-ELISA00027-comparing-plastics-2017-05-24-161257.txt	0217-03	SV	transfer loss to different plastics
+28	meta_plate28.tsv	SV-ELISA00028-AAA-spike-in-2017-06-01-141840.txt	0217-03	SV	recombinant spike-in
+29	meta_plate29.tsv	SV-ELISA00029-more-neg-cons-2017-06-26-162050.txt	0217-03	SV	protease digestion, artificial CSF
+30	meta_plate30.tsv	SV-ELISA00030-recombinant-standard-curve-2017-10-06-141453.txt	0717-06	SV	recombinant spike-in vs. in-house recombinant standard curve
+31	meta_plate31.tsv	SV-ELISA00031-thoracic-lumbar-2017-10-19-142829.txt	0717-06	SV	lumbar-thoracic drains
+32	meta_plate32.tsv	SV-ELISA00032-bsa-2017-10-26-175226.txt	0717-06	SV	BSA to rescue transfer loss
+33	meta_plate33.tsv	EVM-ELISA00033-2017-10-30.csv	0417-05	EVM	UCSF cohort (1/4); syringe volume experiment
+34	meta_plate34.tsv	EVM-ELISA00034-2017-10-31.csv	0417-05	EVM	UCSF cohort (2/4)
+35	meta_plate35.tsv	SV-ELISA00035-QC-refo-no-CHAPS-2017-11-04-145732.txt	0717-06	SV	replication of perturbation experiment without CHAPS
+36	meta_plate36.tsv	SV-ELISA00036-QC-redo-with-CHAPS-2017-11-08-143220.txt	0717-06	SV	replication of perturbation experiment with CHAPS
+37	meta_plate37.tsv	SV-ELISA00037-CSF-into-CSF-low-handling-spike-in-2017-11-10-151242.txt	0417-05	SV	high sample into low sample dilution; recombinant spike in with minimal handling
+38	meta_plate38.tsv	EVM-ELISA00038-2017-11-16.csv	0417-05	EVM	UCSF cohort (3/4)
+39	meta_plate39.tsv	EVM-ELISA00039-2017-11-17.csv	0417-05	EVM	UCSF cohort (4/4)
+40	meta_plate40.tsv	SV-ELISA00040-brain-blood-2018-02-22-155055.txt	0417-05	SV	ADRC brains and additional blood samples; pilot of lumbar-thoracic syringe samples to determine dilution
+41	meta_plate41.tsv	SV-ELISA00041-brain-syr-vol-2018-02-27-152000.txt	0417-05	SV	more ADRC brains, lumbar-thoracic syringe samples

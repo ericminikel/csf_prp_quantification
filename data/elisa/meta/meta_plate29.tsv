@@ -1,0 +1,33 @@
+row	col	stype	detail	dilution
+A	1	control	poscon lo	1
+A	2	control	negcon	1
+A	3	sample	v1205.6+C-IPC	50
+A	4	sample	v1205.6+C-IPC	50
+B	1	control	poscon hi	1
+B	2	control	blocking	1
+B	3	sample	v1209.2+C	50
+B	4	sample	v1209.2+C	50
+C	1	standard	1	1
+C	2	standard	1	1
+C	3	sample	v1205.6+PK	10
+C	4	sample	v1205.6+PK	10
+D	1	standard	2	1
+D	2	standard	2	1
+D	3	sample	v1209.2+PK	10
+D	4	sample	v1209.2+PK	10
+E	1	standard	4	1
+E	2	standard	4	1
+E	3	sample	Artificial-CSF	10
+E	4	sample	Artificial-CSF	10
+F	1	standard	5	1
+F	2	standard	5	1
+F	3	sample	Artificial-CSF	10
+F	4	sample	Artificial-CSF	10
+G	1	standard	10	1
+G	2	standard	10	1
+G	3	sample	v1205.6+C-IPC	50
+G	4	sample	v1205.6+C-IPC	50
+H	1	standard	20	1
+H	2	standard	20	1
+H	3	sample	v1209.2+C	50
+H	4	sample	v1209.2+C	50

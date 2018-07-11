@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution
+A	1	standard	200	1
+A	2	standard	66.6	1
+A	3	standard	22.2	1
+A	4	standard	7.4	1
+A	5	standard	2.5	1
+A	6	standard	0.82	1
+A	7	standard	0.27	1
+A	8	standard	0	1
+A	9	sample	IZ_2923	10
+A	10	sample	IZ_2923	10
+A	11	sample	IZ_2923	100
+A	12	sample	IZ_2923	100
+B	1	sample	IZ_4296	10
+B	2	sample	IZ_4296	10
+B	3	sample	IZ_4296	100
+B	4	sample	IZ_4296	100
+B	5	sample	IZ_408	10
+B	6	sample	IZ_408	10
+B	7	sample	IZ_408	100
+B	8	sample	IZ_408	100
+B	9	sample	IZ_4254	10
+B	10	sample	IZ_4254	10
+B	11	sample	IZ_4254	100
+B	12	sample	IZ_4254	100
+C	1	sample	IZ_3498	10
+C	2	sample	IZ_3498	10
+C	3	sample	IZ_3498	100
+C	4	sample	IZ_3498	100
+C	5	sample	IZ_711	10
+C	6	sample	IZ_711	10
+C	7	sample	IZ_711	100
+C	8	sample	IZ_711	100
+C	9	sample	IZ_2161	10
+C	10	sample	IZ_2161	10
+C	11	sample	IZ_2161	100
+C	12	sample	IZ_2161	100
+D	1	sample	IZ_3304	10
+D	2	sample	IZ_3304	10
+D	3	sample	IZ_3304	100
+D	4	sample	IZ_3304	100
+D	5	sample	IZ_1233	10
+D	6	sample	IZ_1233	10
+D	7	sample	IZ_1233	100
+D	8	sample	IZ_1233	100
+D	9	sample	IZ_690	10
+D	10	sample	IZ_690	10
+D	11	sample	IZ_690	100
+D	12	sample	IZ_690	100
+E	1	sample	v1202.1	10
+E	2	sample	v1202.1	10
+E	3	sample	v1202.1	100
+E	4	sample	v1202.1	100
+E	5	sample	v1205.6	10
+E	6	sample	v1205.6	10
+E	7	sample	v1205.6	100
+E	8	sample	v1205.6	100
+E	9	sample	v1208.1	10
+E	10	sample	v1208.1	10
+E	11	sample	v1208.1	100
+E	12	sample	v1208.1	100
+F	1	sample	v1238.5	10
+F	2	sample	v1238.5	10
+F	3	sample	v1238.5	100
+F	4	sample	v1238.5	100
+F	5	sample	v1224.7	10
+F	6	sample	v1224.7	10
+F	7	sample	v1224.7	100
+F	8	sample	v1224.7	100
+F	9	sample	v1209.1	10
+F	10	sample	v1209.1	10
+F	11	sample	v1209.1	100
+F	12	sample	v1209.1	100
+G	1	sample	v1234.1	10
+G	2	sample	v1234.1	10
+G	3	sample	v1234.1	100
+G	4	sample	v1234.1	100
+G	5			
+G	6			
+G	7			
+G	8			
+G	9			
+G	10			
+G	11			
+G	12			
+H	1			
+H	2			
+H	3	sample	v1187.3	100
+H	4	sample	v1187.3	100
+H	5	standard	200	1
+H	6	standard	66.6	1
+H	7	standard	22.2	1
+H	8	standard	7.4	1
+H	9	standard	2.5	1
+H	10	standard	0.82	1
+H	11	standard	0.27	1
+H	12	standard	0	1

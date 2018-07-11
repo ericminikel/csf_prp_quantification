@@ -1,0 +1,55 @@
+row	col	stype	detail	dilution
+A	1	standard	0	1
+A	2	standard	.1	1
+A	3	standard	.2	1
+A	4	standard	.4	1
+A	5	standard	.8	1
+A	6	standard	1.6	1
+A	7	standard	0	1
+A	8	standard	.1	1
+A	9	standard	.2	1
+A	10	standard	.4	1
+A	11	standard	.8	1
+A	12	standard	1.6	1
+B	1	sample	1857 supe	1
+B	2	sample	1857 supe	1
+B	3	sample	1857 exo	1
+B	4	sample	1857 exo	1
+B	5	sample	1857 neat	1
+B	6	sample	1857 neat	1
+B	7	sample	1867 supe	1
+B	8	sample	1867 supe	1
+B	9	sample	1867 exo	1
+B	10	sample	1867 exo	1
+B	11	sample	1867 neat	1
+B	12	sample	1867 neat	1
+C	1	sample	1906 supe	1
+C	2	sample	1906 supe	1
+C	3	sample	1906 exo	1
+C	4	sample	1906 exo	1
+C	5	sample	1906 neat	1
+C	6	sample	1906 neat	1
+C	7	sample	1945 supe	1
+C	8	sample	1945 supe	1
+C	9	sample	1945 exo	1
+C	10	sample	1945 exo	1
+C	11	sample	1945 neat	1
+C	12	sample	1945 neat	1
+D	1	sample	1	1
+D	2	sample	2	1
+D	3	sample	3	1
+D	4	sample	4	1
+D	5	sample	5	1
+D	6	sample	6	1
+D	7	sample	7	1
+D	8	sample	8	1
+D	9	sample	9	1
+D	10	sample	10	1
+D	11	sample	11	1
+D	12	sample	12	1
+E	1	sample	13	1
+E	2	sample	14	1
+E	3	sample	15	1
+E	4	sample	16	1
+E	5	sample	17	1
+E	6	sample	18	1

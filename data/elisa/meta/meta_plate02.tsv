@@ -1,0 +1,49 @@
+row	col	stype	detail	dilution
+A	1	sample	v1208.1	100
+A	2	sample	v1208.1	100
+A	3	sample	v1208.1	100
+A	4	sample	165.2	100
+A	5	sample	165.2	100
+A	6	sample	165.2	100
+B	1	control	poscon hi	
+B	2	control	poscon hi	
+B	3	control	poscon hi	
+B	4	sample	v1187.3	100
+B	5	sample	v1187.3	100
+B	6	sample	v1187.3	100
+C	1	standard	1	
+C	2	standard	2	
+C	3	standard	4	
+C	4	standard	5	
+C	5	standard	10	
+C	6	standard	20	
+D	1	standard	20	
+D	2	standard	10	
+D	3	standard	5	
+D	4	standard	4	
+D	5	standard	2	
+D	6	standard	1	
+E	1	recombinant	Mo 10	
+E	2	recombinant	Mo 10	
+E	3	recombinant	Mo 3	
+E	4	recombinant	Mo 3	
+E	5	recombinant	Mo 1	
+E	6	recombinant	Mo 1	
+F	1	recombinant	Hu 10	
+F	2	recombinant	Hu 10	
+F	3	recombinant	Hu 3	
+F	4	recombinant	Hu 3	
+F	5	recombinant	Hu 1	
+F	6	recombinant	Hu 1	
+G	1	sample	v1238.5	100
+G	2	sample	v1238.5	100
+G	3	sample	v1238.5	100
+G	4	sample	v1224.7	100
+G	5	sample	v1224.7	100
+G	6	sample	v1224.7	100
+H	1	sample	v1209.1	100
+H	2	sample	v1209.1	100
+H	3	sample	v1209.1	100
+H	4	sample	v1234.1	100
+H	5	sample	v1234.1	100
+H	6	sample	v1234.1	100

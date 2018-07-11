@@ -1,0 +1,97 @@
+row	col	stype	detail	dilution
+A	1	standard	1	
+A	2	standard	2	
+A	3	standard	4	
+A	4	standard	5	
+A	5	standard	10	
+A	6	standard	20	
+A	7	control	poscon hi	
+A	8	control	poscon lo	
+A	9	control	negcon	
+A	10	control	poscon hi	
+A	11	control	poscon lo	
+A	12	control	negcon	
+B	1	sample	v1187.3	100
+B	2	sample	v1187.3	100
+B	3	sample	v1187.3	100
+B	4	sample	v1187.3	100
+B	5	sample	v1187.3	100
+B	6	sample	v1187.3	100
+B	7	sample	v1187.3	100
+B	8	sample	v1187.3	100
+B	9	sample	v1187.3	100
+B	10	sample	v1187.3	100
+B	11	sample	v1187.3	100
+B	12	sample	v1187.3	100
+C	1	sample	1	50
+C	2	sample	1	50
+C	3	sample	1	25
+C	4	sample	1	25
+C	5	sample	2	50
+C	6	sample	2	50
+C	7	sample	2	25
+C	8	sample	2	25
+C	9	sample	3	50
+C	10	sample	3	50
+C	11	sample	3	25
+C	12	sample	3	25
+D	1	sample	4	50
+D	2	sample	4	50
+D	3	sample	4	25
+D	4	sample	4	25
+D	5	sample	5	50
+D	6	sample	5	50
+D	7	sample	5	25
+D	8	sample	5	25
+D	9	sample	6	50
+D	10	sample	6	50
+D	11	sample	6	25
+D	12	sample	6	25
+E	1	sample	7	50
+E	2	sample	7	50
+E	3	sample	7	25
+E	4	sample	7	25
+E	5	sample	8	50
+E	6	sample	8	50
+E	7	sample	8	25
+E	8	sample	8	25
+E	9	sample	9	50
+E	10	sample	9	50
+E	11	sample	9	25
+E	12	sample	9	25
+F	1	sample	13	50
+F	2	sample	13	50
+F	3	sample	13	25
+F	4	sample	13	25
+F	5	sample	11	50
+F	6	sample	11	50
+F	7	sample	11	25
+F	8	sample	11	25
+F	9	sample	12	50
+F	10	sample	12	50
+F	11	sample	12	25
+F	12	sample	12	25
+G	1	sample	10	50
+G	2	sample	10	50
+G	3	sample	10	25
+G	4	sample	10	25
+G	5	sample	14	50
+G	6	sample	14	50
+G	7	sample	14	25
+G	8	sample	14	25
+G	9	sample	15	50
+G	10	sample	15	50
+G	11	sample	15	25
+G	12	sample	15	25
+H	1	sample	16	50
+H	2	sample	16	50
+H	3	sample	16	25
+H	4	sample	16	25
+H	5	sample	17	50
+H	6	sample	17	50
+H	7	sample	17	25
+H	8	sample	17	25
+H	9	sample	18	50
+H	10	sample	18	50
+H	11	sample	18	25
+H	12	sample	18	25

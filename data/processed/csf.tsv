@@ -1,0 +1,218 @@
+sample	prp_ngml	prp_flag	prp_se	hb_flag	hb_ngml	dc_flag	dc_mgml	prion_category	bftype	sample_source	prp_l95	prp_u95
+165.2	119.72		  2.877		   48.01		0.29	non-prion	CSF	MIND	114.08	125.36
+v1187.3	314.39		 12.957		16506.68		0.84	non-prion	CSF	MIND	288.99	339.79
+v1202.1	 12.10		  0.748		  158.01		0.28	non-prion	CSF	MIND	 10.64	 13.57
+v1205.6	239.92		 20.492		  415.43		0.85	non-prion	CSF	MIND	199.75	280.08
+v1208.1	222.12		  5.593		  169.88		0.70	non-prion	CSF	MIND	211.16	233.08
+v1238.5	247.11		 13.319		  725.83		0.77	non-prion	CSF	MIND	221.00	273.21
+v1224.7	177.61		 29.398	LLQ	    8.20		0.45	non-prion	CSF	MIND	119.99	235.23
+v1209.1	241.14		 82.524		  346.42		0.60	non-prion	CSF	MIND	 79.39	402.89
+v1234.1	264.71		 20.896		  504.86		0.81	non-prion	CSF	MIND	223.75	305.67
+1	181.58		  3.373		   11.94		0.32	non-prion	CSF	Arnold	174.97	188.19
+2	187.12		  5.539		  725.49		0.36	non-prion	CSF	Arnold	176.26	197.98
+3	 60.76		  5.307	ULQ	20000.00		1.01	non-prion	CSF	Arnold	 50.36	 71.16
+4	 99.43		  2.973		   45.98		0.64	non-prion	CSF	Arnold	 93.60	105.25
+5	 79.48		  2.098		   10.62		0.49	non-prion	CSF	Arnold	 75.37	 83.60
+6	 55.49		  3.998	ULQ	20000.00		0.82	non-prion	CSF	Arnold	 47.66	 63.33
+7	183.86		  8.842		   24.11		0.67	non-prion	CSF	Arnold	166.53	201.19
+8	184.71		  6.397	ULQ	20000.00		0.93	non-prion	CSF	Arnold	172.18	197.25
+9	 87.31		  2.320		   11.28		0.37	non-prion	CSF	Arnold	 82.77	 91.86
+13	 84.79		  3.297		   85.81		0.29	non-prion	CSF	Arnold	 78.33	 91.25
+11	146.14		  5.881		 8644.11		0.52	non-prion	CSF	Arnold	134.62	157.67
+12	174.50		  1.821	LLQ	    8.20		0.56	non-prion	CSF	Arnold	170.93	178.07
+10	127.06		  2.828		 3189.06		0.37	non-prion	CSF	Arnold	121.52	132.60
+14	 77.91		  2.627		 2085.71		0.16	non-prion	CSF	Arnold	 72.76	 83.06
+15	 87.86		  3.432		 1984.64		0.27	non-prion	CSF	Arnold	 81.13	 94.58
+16	 95.53		  4.038		  208.05		0.32	non-prion	CSF	Arnold	 87.61	103.44
+17	163.96		  5.296		 2874.72		1.18	non-prion	CSF	Arnold	153.58	174.34
+18	146.98		  1.854	LLQ	    8.20		1.45	non-prion	CSF	Arnold	143.34	150.61
+1839	 47.76		  2.750	LLQ	    8.20		0.20	non-prion	CSF	Zetterberg	 42.37	 53.15
+1843	 59.53		  1.949		  237.63		0.25	non-prion	CSF	Zetterberg	 55.71	 63.35
+1846	 33.41		  0.052		   12.36		0.38	non-prion	CSF	Zetterberg	 33.30	 33.51
+1847	 43.49		  2.516	LLQ	    8.20		0.32	non-prion	CSF	Zetterberg	 38.56	 48.42
+1850	 60.99		  2.672		  890.35		0.69	non-prion	CSF	Zetterberg	 55.76	 66.23
+1857	 85.15		  2.587	LLQ	    8.20		0.80	non-prion	CSF	Zetterberg	 80.08	 90.22
+1859	103.47		  3.787	LLQ	    8.20		0.44	non-prion	CSF	Zetterberg	 96.05	110.89
+1867	 34.62		  1.729		    8.78		0.13	non-prion	CSF	Zetterberg	 31.23	 38.01
+1868	 53.21		  0.525		   39.70		0.40	non-prion	CSF	Zetterberg	 52.18	 54.24
+1895	 65.66		  4.136		  175.18		0.28	non-prion	CSF	Zetterberg	 57.55	 73.76
+1906	104.15		  6.564	LLQ	    8.20		0.32	non-prion	CSF	Zetterberg	 91.28	117.01
+1907	 61.32		  3.474		  369.11		0.71	non-prion	CSF	Zetterberg	 54.51	 68.13
+1921	 10.00	LLQ	  0.069		 2169.15		0.22	non-prion	CSF	Zetterberg	  9.86	 10.14
+1922	172.19		 12.089		  496.99		0.20	non-prion	CSF	Zetterberg	148.50	195.89
+1928	 43.91		  0.073		   32.23		0.17	non-prion	CSF	Zetterberg	 43.77	 44.05
+1945	 53.06		  3.372		  151.40		1.01	non-prion	CSF	Zetterberg	 46.46	 59.67
+1946	131.61		 12.760		  460.94		0.31	non-prion	CSF	Zetterberg	106.60	156.62
+1948	 37.69		  0.723	LLQ	    8.20		0.29	non-prion	CSF	Zetterberg	 36.27	 39.10
+1952	 62.47		  1.808	LLQ	    8.20		0.27	non-prion	CSF	Zetterberg	 58.93	 66.02
+1953	 32.81		  0.366		   23.35		0.68	non-prion	CSF	Zetterberg	 32.09	 33.53
+2109	324.49		 13.900		 1626.68		0.66	non-prion	CSF	MIND	297.25	351.74
+2122	152.66		  4.882	LLQ	    8.20		0.41	non-prion	CSF	MIND	143.10	162.23
+2158	 83.80		  4.287		    9.01		0.20	non-prion	CSF	MIND	 75.40	 92.20
+2182	170.04		  9.121		  255.70		0.63	non-prion	CSF	MIND	152.16	187.92
+2231	 10.73		  0.731		  129.86		0.13	non-prion	CSF	MIND	  9.30	 12.16
+2263	151.67		 14.111		   11.67		0.27	non-prion	CSF	MIND	124.01	179.33
+2363	 20.17		  0.927		 1874.48		0.21	non-prion	CSF	MIND	 18.35	 21.99
+2408	545.90		  7.144		 6907.54		0.79	non-prion	CSF	MIND	531.90	559.90
+2413	 39.88		  1.419		  137.97		0.59	non-prion	CSF	MIND	 37.10	 42.66
+2572	461.21		  7.871		10359.33		0.72	non-prion	CSF	MIND	445.78	476.64
+2579	284.92		  5.109		  270.23		0.73	non-prion	CSF	MIND	274.90	294.93
+2616	 42.19		  2.667	LLQ	    8.20		0.49	non-prion	CSF	MIND	 36.97	 47.42
+2747	119.64		  6.971	LLQ	    8.20		0.77	non-prion	CSF	MIND	105.97	133.30
+2777	155.66		 13.512		 4531.59		0.53	non-prion	CSF	MIND	129.18	182.14
+2798	134.50		 15.730	LLQ	    8.20		0.54	non-prion	CSF	MIND	103.66	165.33
+2869	226.40		  6.247		  393.22		0.78	non-prion	CSF	MIND	214.16	238.64
+2881	240.06		  3.227		 3519.72		1.13	non-prion	CSF	MIND	233.73	246.38
+2974	155.07		  8.158		 5975.25	ULQ	1.60	non-prion	CSF	MIND	139.08	171.06
+07-242	 13.76		  1.404	ULQ	20000.00		0.40	symptomatic genetic	CSF	Parchi	 11.01	 16.51
+10-094	 69.15		 16.966		    9.77		0.43	symptomatic genetic	CSF	Parchi	 35.89	102.40
+11-043	 67.10		  2.161	ULQ	20000.00	ULQ	1.60	symptomatic genetic	CSF	Parchi	 62.86	 71.33
+11-109	 25.98		  6.044		   70.87		0.24	symptomatic genetic	CSF	Parchi	 14.13	 37.82
+11-158	 58.71		 10.026		  960.12		0.78	symptomatic genetic	CSF	Parchi	 39.06	 78.36
+11-333	169.42		 12.879		   33.17		0.56	non-prion	CSF	Parchi	144.18	194.66
+12-036	 71.94		  8.570		  253.80		0.58	symptomatic sporadic	CSF	Parchi	 55.15	 88.74
+12-058	334.53		193.168		  232.48		0.73	non-prion	CSF	Parchi	-44.08	713.14
+12-177	121.01		 18.046		  510.41		0.25	non-prion	CSF	Parchi	 85.64	156.38
+13-202	166.27		 11.151		 3339.11		0.28	symptomatic sporadic	CSF	Parchi	144.42	188.13
+13-230	422.48		 11.203	LLQ	    8.20		0.35	non-prion	CSF	Parchi	400.52	444.44
+13-294	386.70		 60.124	LLQ	    8.20		0.44	non-prion	CSF	Parchi	268.86	504.54
+14-012	 94.36		  9.658		  414.20		0.53	non-prion	CSF	Parchi	 75.43	113.29
+14-013	238.39		  1.862	ULQ	20000.00		0.43	non-prion	CSF	Parchi	234.74	242.04
+14-017	343.61		 11.635		   96.49	ULQ	1.60	non-prion	CSF	Parchi	320.81	366.42
+14-100	110.81		 17.232	LLQ	    8.20		0.45	symptomatic sporadic	CSF	Parchi	 77.04	144.59
+14-150	411.55		  4.094		 4658.72		1.33	non-prion	CSF	Parchi	403.53	419.57
+14-246	298.83		  6.183		 6390.25	ULQ	1.60	non-prion	CSF	Parchi	286.72	310.95
+14-286	 91.83		  4.240		   94.39		0.51	non-prion	CSF	Parchi	 83.52	100.14
+14-300	444.51		 20.382		   10.49		0.67	non-prion	CSF	Parchi	404.56	484.46
+15-184	194.26		 81.650		 4874.64		0.33	non-prion	CSF	Parchi	 34.22	354.29
+15-302	190.18		  7.183	ULQ	20000.00		1.07	symptomatic sporadic	CSF	Parchi	176.10	204.26
+15-307	134.33		 32.119		   10.49		0.58	symptomatic sporadic	CSF	Parchi	 71.37	197.28
+15-328	140.16		  2.790		   10.24		0.51	symptomatic sporadic	CSF	Parchi	134.69	145.63
+15-385	 88.69		  2.641		 1474.20		0.80	non-prion	CSF	Parchi	 83.52	 93.87
+15-406	 27.34		  2.336		  370.34		0.53	symptomatic sporadic	CSF	Parchi	 22.76	 31.92
+15-422	135.64		  6.087		  749.72		0.45	symptomatic sporadic	CSF	Parchi	123.71	147.57
+15-446	191.93		 11.771		  315.12		0.69	symptomatic sporadic	CSF	Parchi	168.86	215.00
+16-001	 78.04		  2.442		   82.00		0.42	symptomatic sporadic	CSF	Parchi	 73.26	 82.83
+16-097	 89.87		  1.638	LLQ	    8.20		0.48	symptomatic sporadic	CSF	Parchi	 86.66	 93.08
+16-226	155.58		  5.327	LLQ	    8.20		0.26	symptomatic sporadic	CSF	Parchi	145.14	166.02
+16-314	132.95		  5.740		  263.27		0.35	symptomatic sporadic	CSF	Parchi	121.70	144.20
+16-324	109.09		  3.021		   11.51		0.23	symptomatic sporadic	CSF	Parchi	103.17	115.01
+16-403	108.33		  1.767		  824.60		0.48	symptomatic sporadic	CSF	Parchi	104.86	111.79
+K101-T0	 82.19		  3.185		      NA		0.13	non-prion	CSF	Swoboda	 75.94	 88.43
+K101-T1	118.38		  3.578		      NA		0.16	non-prion	CSF	Swoboda	111.37	125.39
+K101-T2	141.90		  4.934		      NA		0.12	non-prion	CSF	Swoboda	132.23	151.57
+K103-T2	 19.61		  0.261		      NA		0.19	non-prion	CSF	Swoboda	 19.10	 20.13
+K103-T0	 59.38		  3.387		      NA		0.21	non-prion	CSF	Swoboda	 52.75	 66.02
+K103-T1	 60.53		  2.325		      NA		0.30	non-prion	CSF	Swoboda	 55.97	 65.09
+K104-T1	 62.85		  0.971		      NA	LLQ	0.10	non-prion	CSF	Swoboda	 60.95	 64.75
+K104-T2	 59.30		  1.495		      NA	LLQ	0.10	non-prion	CSF	Swoboda	 56.37	 62.23
+K104-T0	 58.28		  0.924		      NA	LLQ	0.10	non-prion	CSF	Swoboda	 56.47	 60.09
+K106-T0	232.75		  3.178		      NA		0.43	non-prion	CSF	Swoboda	226.52	238.98
+K106-T1	204.59		  3.956		      NA		0.46	non-prion	CSF	Swoboda	196.84	212.34
+K106-T2	156.19		  7.039		      NA		0.29	non-prion	CSF	Swoboda	142.40	169.99
+K201-T2	 24.96		  3.071		      NA		0.22	non-prion	CSF	Swoboda	 18.94	 30.98
+K201-T0	 18.00		  0.475		      NA		0.33	non-prion	CSF	Swoboda	 17.07	 18.93
+K201-T1	 23.25		  1.633		      NA		0.23	non-prion	CSF	Swoboda	 20.05	 26.45
+K105-T0	165.63		 10.828		      NA		0.62	non-prion	CSF	Swoboda	144.41	186.85
+K105-T1	130.16		  6.561		      NA		0.62	non-prion	CSF	Swoboda	117.30	143.02
+K206-T0	124.86		  7.331		      NA		0.20	non-prion	CSF	Swoboda	110.50	139.23
+K206-T1	 32.66		  0.935		      NA		0.18	non-prion	CSF	Swoboda	 30.83	 34.49
+K202-T0	 23.60		  0.914		      NA		0.39	non-prion	CSF	Swoboda	 21.81	 25.39
+K202-T1	 33.54		  2.251		      NA		0.45	non-prion	CSF	Swoboda	 29.13	 37.96
+K202-T2	 25.99		  1.031		      NA		0.45	non-prion	CSF	Swoboda	 23.97	 28.01
+K203-T1	 42.08		  0.105		      NA	LLQ	0.10	non-prion	CSF	Swoboda	 41.88	 42.29
+K203-T2	 33.38		  1.483		      NA	LLQ	0.10	non-prion	CSF	Swoboda	 30.47	 36.29
+K203-T0	 17.70		  0.637		      NA	LLQ	0.10	non-prion	CSF	Swoboda	 16.45	 18.95
+K207-T2	 65.08		  0.949		      NA		0.24	non-prion	CSF	Swoboda	 63.22	 66.94
+K207-T0	 17.06		  1.049		      NA		0.23	non-prion	CSF	Swoboda	 15.00	 19.11
+K207-T1	 58.38		  1.213		      NA		0.22	non-prion	CSF	Swoboda	 56.00	 60.76
+IZ_2071	455.64		 15.825		  161.76		0.48	non-prion	CSF	Zerr	424.62	486.66
+IZ_1287	172.57		  3.023		   23.70		0.34	non-prion	CSF	Zerr	166.65	178.49
+IZ_2114	229.77		 11.483		 1577.82		0.47	non-prion	CSF	Zerr	207.26	252.28
+IZ_1681	233.00		 19.057		  157.60		0.62	non-prion	CSF	Zerr	195.65	270.35
+IZ_1740	 30.88		  5.458		 4548.12		0.52	non-prion	CSF	Zerr	 20.18	 41.58
+IZ_396	 80.57		  4.339		    9.50		0.18	non-prion	CSF	Zerr	 72.06	 89.07
+IZ_45	 26.66		  0.797		  920.54		0.45	non-prion	CSF	Zerr	 25.10	 28.22
+IZ_2337	 69.05		  2.456	ULQ	20000.00		1.06	non-prion	CSF	Zerr	 64.23	 73.86
+IZ_2166	 50.45		  3.152		  157.93		0.28	non-prion	CSF	Zerr	 44.27	 56.63
+IZ_2736	132.24		 11.907		 4939.21		0.33	non-prion	CSF	Zerr	108.90	155.58
+IZ_1993	266.71		 10.771		   12.77		0.46	non-prion	CSF	Zerr	245.60	287.82
+IZ_2035	321.84		 25.878		   60.41		1.33	non-prion	CSF	Zerr	271.11	372.56
+IZ_28	 16.30		  0.632		 1005.85		0.83	symptomatic sporadic	CSF	Zerr	 15.07	 17.54
+IZ_2178	 62.98		  3.136		   95.05		0.38	symptomatic sporadic	CSF	Zerr	 56.83	 69.13
+IZ_4319	 56.51		  3.566		 3347.25		0.33	symptomatic sporadic	CSF	Zerr	 49.52	 63.50
+IZ_2923	129.19		  7.039	LLQ	    8.20		0.52	symptomatic sporadic	CSF	Zerr	115.40	142.99
+IZ_4272	 72.17		  1.829		 1673.91		0.42	symptomatic sporadic	CSF	Zerr	 68.58	 75.75
+IZ_3916	129.83		  6.025	LLQ	    8.20		0.28	symptomatic sporadic	CSF	Zerr	118.02	141.64
+IZ_4383	 90.73		  1.985		  253.84		0.50	symptomatic sporadic	CSF	Zerr	 86.84	 94.62
+IZ_1168	 22.94		  1.637		 2004.73		0.52	symptomatic genetic	CSF	Zerr	 19.74	 26.15
+IZ_4296	168.85		  4.036		  165.08		0.38	symptomatic sporadic	CSF	Zerr	160.94	176.76
+IZ_408	 50.14		  0.750		   48.13		0.25	symptomatic sporadic	CSF	Zerr	 48.67	 51.61
+IZ_4254	119.17		  5.742		   35.30		0.26	symptomatic sporadic	CSF	Zerr	107.91	130.42
+IZ_3498	184.34		 16.694	LLQ	    8.20		0.19	symptomatic sporadic	CSF	Zerr	151.62	217.06
+IZ_711	 40.36		  5.038		   42.97		0.32	symptomatic genetic	CSF	Zerr	 30.49	 50.23
+IZ_2161	 43.25		  3.344		  884.40		0.39	symptomatic genetic	CSF	Zerr	 36.70	 49.81
+IZ_3304	120.04		  1.928		   11.96		0.19	symptomatic genetic	CSF	Zerr	116.26	123.82
+IZ_1233	 83.90		  3.154		   57.13		0.61	symptomatic genetic	CSF	Zerr	 77.72	 90.09
+IZ_690	 31.49		  2.040		 8978.17		0.39	symptomatic genetic	CSF	Zerr	 27.49	 35.49
+10AR	103.94		  3.107		      NA		0.55	presymptomatic genetic	CSF	Geschwind	 97.85	110.03
+11A	144.82		  4.164		      NA		0.42	presymptomatic genetic	CSF	Geschwind	136.65	152.98
+11B	179.60		  9.266		      NA		0.40	presymptomatic genetic	CSF	Geschwind	161.44	197.76
+11CR	100.94		  6.601		      NA		0.38	presymptomatic genetic	CSF	Geschwind	 88.01	113.88
+11DR	125.01		  7.181		      NA		0.22	presymptomatic genetic	CSF	Geschwind	110.94	139.09
+11ER	118.44		  5.709		      NA		0.58	presymptomatic genetic	CSF	Geschwind	107.25	129.63
+12A	143.80		  6.575		      NA		0.49	presymptomatic genetic	CSF	Geschwind	130.91	156.69
+12B	110.23		  6.237		      NA		0.44	presymptomatic genetic	CSF	Geschwind	 98.00	122.45
+13A	 81.22		  3.745		      NA		0.31	presymptomatic genetic	CSF	Geschwind	 73.88	 88.56
+13B	139.29		  4.389		      NA		0.35	presymptomatic genetic	CSF	Geschwind	130.68	147.89
+14A	 97.67		 22.453		      NA		0.22	presymptomatic genetic	CSF	Geschwind	 53.66	141.68
+14B	 15.53		  1.003		      NA		0.23	presymptomatic genetic	CSF	Geschwind	 13.57	 17.50
+15A	187.25		  7.776		      NA		0.58	presymptomatic genetic	CSF	Geschwind	172.01	202.49
+16A	 10.76		  0.755		      NA		0.32	symptomatic genetic	CSF	Geschwind	  9.27	 12.24
+17A	 68.45		  7.174		      NA		0.25	presymptomatic genetic	CSF	Geschwind	 54.39	 82.51
+18A	 77.50		  4.304		      NA		0.37	presymptomatic genetic	CSF	Geschwind	 69.07	 85.94
+19A	124.80		  6.996		      NA		0.24	presymptomatic genetic	CSF	Geschwind	111.09	138.51
+20A	104.38		  4.466		      NA		0.28	presymptomatic genetic	CSF	Geschwind	 95.62	113.13
+21A	126.45		  1.317		      NA		0.99	symptomatic genetic	CSF	Geschwind	123.87	129.03
+22A	 33.62		  1.498		      NA		1.19	symptomatic genetic	CSF	Geschwind	 30.68	 36.55
+22B	 58.25		  1.169		      NA	ULQ	1.60	symptomatic genetic	CSF	Geschwind	 55.96	 60.54
+23AR	214.25		 10.725		      NA		0.82	presymptomatic genetic	CSF	Geschwind	193.23	235.27
+24A	 31.19		  0.696		      NA		0.53	presymptomatic genetic	CSF	Geschwind	 29.83	 32.56
+25A	149.58		  3.665		      NA		0.20	presymptomatic genetic	CSF	Geschwind	142.40	156.76
+26A	 77.31		  5.827		      NA		0.39	presymptomatic genetic	CSF	Geschwind	 65.89	 88.73
+27AR	105.12		  2.108		      NA		0.59	symptomatic genetic	CSF	Geschwind	100.98	109.25
+27B	125.05		  4.868		      NA		0.53	symptomatic genetic	CSF	Geschwind	115.51	134.59
+27C	131.27		  7.722		      NA		0.42	symptomatic genetic	CSF	Geschwind	116.13	146.41
+27D	 98.90		  3.832		      NA		0.49	symptomatic genetic	CSF	Geschwind	 91.39	106.41
+27ER	173.86		 21.081		      NA		0.65	symptomatic genetic	CSF	Geschwind	132.54	215.18
+28A	161.83		  7.930		      NA		0.61	presymptomatic genetic	CSF	Geschwind	146.29	177.37
+29A	166.83		  9.307		      NA		0.62	presymptomatic genetic	CSF	Geschwind	148.59	185.07
+29BR	232.04		 70.580		      NA		0.60	presymptomatic genetic	CSF	Geschwind	 93.70	370.38
+29C	153.78		  5.156		      NA		0.51	presymptomatic genetic	CSF	Geschwind	143.67	163.88
+30AR	 55.15		  3.411		      NA		0.14	symptomatic genetic	CSF	Geschwind	 48.46	 61.83
+31AR	131.04		  3.813		      NA	LLQ	0.10	presymptomatic genetic	CSF	Geschwind	123.57	138.51
+32A	 43.04		  0.164		      NA		0.28	symptomatic genetic	CSF	Geschwind	 42.72	 43.37
+32B	 92.89		  3.520		      NA		0.23	symptomatic genetic	CSF	Geschwind	 85.99	 99.79
+33A	 10.23		  0.234		      NA		0.50	symptomatic genetic	CSF	Geschwind	  9.78	 10.69
+33B	 22.46		  0.226		      NA		0.57	symptomatic genetic	CSF	Geschwind	 22.02	 22.90
+34A	111.29		  1.363		      NA		0.21	symptomatic genetic	CSF	Geschwind	108.61	113.96
+35AR	104.51		  4.863		      NA	LLQ	0.10	presymptomatic genetic	CSF	Geschwind	 94.98	114.04
+36AR	426.33		 33.389		      NA		0.73	presymptomatic genetic	CSF	Geschwind	360.89	491.78
+37A	264.30		 22.136		      NA		0.28	presymptomatic genetic	CSF	Geschwind	220.91	307.68
+38AR	593.55		 11.100		      NA		0.74	presymptomatic genetic	CSF	Geschwind	571.80	615.31
+39A	133.21		  3.222		      NA		0.26	presymptomatic genetic	CSF	Geschwind	126.90	139.53
+40A	142.65		  0.855		      NA		0.19	presymptomatic genetic	CSF	Geschwind	140.98	144.33
+41A	215.49		  6.552		      NA		0.32	presymptomatic genetic	CSF	Geschwind	202.65	228.33
+42A	 89.75		  6.083		      NA		0.37	presymptomatic genetic	CSF	Geschwind	 77.82	101.67
+42BR	 58.50		  4.877		      NA		0.28	presymptomatic genetic	CSF	Geschwind	 48.94	 68.06
+43A	 93.29		  3.319		      NA		0.41	presymptomatic genetic	CSF	Geschwind	 86.78	 99.79
+43BR	 85.25		  7.294		      NA		0.42	presymptomatic genetic	CSF	Geschwind	 70.95	 99.54
+44A	144.58		  3.380		      NA		0.37	presymptomatic genetic	CSF	Geschwind	137.96	151.20
+45A	133.37		  2.593		      NA		0.23	presymptomatic genetic	CSF	Geschwind	128.28	138.45
+46A	 48.83		  3.352		      NA		0.62	symptomatic genetic	CSF	Geschwind	 42.26	 55.40
+46B	 44.47		  2.151		      NA		0.64	symptomatic genetic	CSF	Geschwind	 40.26	 48.69
+46C	 43.32		  2.154		      NA		0.57	symptomatic genetic	CSF	Geschwind	 39.10	 47.54
+46D	 46.69		  3.217		      NA		0.50	symptomatic genetic	CSF	Geschwind	 40.38	 52.99
+47A	160.42		 11.811		      NA		0.54	symptomatic genetic	CSF	Geschwind	137.27	183.57
+48A	 33.64		  0.874		      NA		0.46	symptomatic genetic	CSF	Geschwind	 31.93	 35.35
+49A	149.84		 10.340		      NA		0.54	symptomatic genetic	CSF	Geschwind	129.58	170.11
